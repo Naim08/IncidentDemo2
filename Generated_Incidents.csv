@@ -142,16 +142,4 @@ INC2383000 + 197,21 Sep 2024,IT0 - Italy website,2,Sebastian Cousins,Akamai DNS 
 2:00 PM ET: Engaged Akamai for DNS support.
 2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
 2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
-3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
-INC2383000 + 198,02 Sep 2024,UK2 - UK Professional website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting UK2 - UK Professional website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of UK2 - UK Professional website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
-1:45 PM ET: Issue reproduced; no logs indicating request reached application.
-2:00 PM ET: Engaged Akamai for DNS support.
-2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
-2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
-3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
-INC2383000 + 199,26 Oct 2024,NL0 - Netherlands website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting NL0 - Netherlands website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of NL0 - Netherlands website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
-1:45 PM ET: Issue reproduced; no logs indicating request reached application.
-2:00 PM ET: Engaged Akamai for DNS support.
-2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
-2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
-3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+
