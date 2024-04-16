@@ -23,7 +23,7 @@ def index():
 
 @app.route('/error')
 def trigger_error():
-     raise CustomError("A custom error has been triggered!")
+     raise Exception("This is a test exception!")
 
 @app.errorhandler(CustomError)
 def handle_custom_error(error):
@@ -34,7 +34,7 @@ def handle_custom_error(error):
     response.status_code = 500  # You can set this to whatever status code you deem appropriate
     return response
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=8090)
 
 
 
