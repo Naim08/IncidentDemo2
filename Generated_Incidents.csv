@@ -95,47 +95,63 @@ INC2850031,04 Feb 2024,UF1-UK-CLIENT-MONOREPO,2 - High,"Doe, Jane",CHG2130073,"{
 INC2850032,16 Sep 2024,UFS-UK PI SECURE SITE,1 - Critical,"Brown, Alice",CHG2130023,"{'summary': 'Change CHG2130023 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '163 clients were impacted.'}","9:00 AM: Issue detected.
 10:30 AM: Root cause analysis started.
 12:00 PM: Change rolled back."
-INC2850033,19 May 2024,UF1-UK-CLIENT-MONOREPO,4 - Low,"Brown, Alice",CHG2130984,"{'summary': 'Change CHG2130984 affected the UF1-UK-CLIENT-MONOREPO functionality.', 'resolution': 'Rollback of the change', 'client_impact': '147 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850034,21 Mar 2024,UF1-UK-CLIENT-MONOREPO,3 - Medium,"Doe, Jane",CHG2130034,"{'summary': 'Change CHG2130034 affected the UF1-UK-CLIENT-MONOREPO functionality.', 'resolution': 'Rollback of the change', 'client_impact': '128 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850035,14 Aug 2024,UFS-UK PI SECURE SITE,2 - High,"Doe, Jane",CHG2130453,"{'summary': 'Change CHG2130453 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '53 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850036,30 Aug 2024,TUG-GATEWAY-API-SERVER,1 - Critical,"Brown, Alice",CHG2130721,"{'summary': 'Change CHG2130721 affected the TUG-GATEWAY-API-SERVER functionality.', 'resolution': 'Rollback of the change', 'client_impact': '134 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850037,05 Apr 2024,TUG-GATEWAY-API-SERVER,2 - High,"Doe, Jane",CHG2130576,"{'summary': 'Change CHG2130576 affected the TUG-GATEWAY-API-SERVER functionality.', 'resolution': 'Rollback of the change', 'client_impact': '200 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850038,28 Dec 2024,TUG-GATEWAY-API-SERVER,3 - Medium,"Brown, Alice",CHG2130794,"{'summary': 'Change CHG2130794 affected the TUG-GATEWAY-API-SERVER functionality.', 'resolution': 'Rollback of the change', 'client_impact': '159 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850039,08 Apr 2024,TUG-GATEWAY-API-SERVER,2 - High,"Brown, Alice",CHG2130028,"{'summary': 'Change CHG2130028 affected the TUG-GATEWAY-API-SERVER functionality.', 'resolution': 'Rollback of the change', 'client_impact': '55 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850040,16 Feb 2024,UF1-UK-CLIENT-MONOREPO,2 - High,"Brown, Alice",CHG2130260,"{'summary': 'Change CHG2130260 affected the UF1-UK-CLIENT-MONOREPO functionality.', 'resolution': 'Rollback of the change', 'client_impact': '73 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850041,07 Jun 2024,TUG-GATEWAY-API-SERVER,4 - Low,"Smith, John",CHG2130607,"{'summary': 'Change CHG2130607 affected the TUG-GATEWAY-API-SERVER functionality.', 'resolution': 'Rollback of the change', 'client_impact': '149 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850042,16 Dec 2024,UF1-UK-CLIENT-MONOREPO,1 - Critical,"Smith, John",CHG2130086,"{'summary': 'Change CHG2130086 affected the UF1-UK-CLIENT-MONOREPO functionality.', 'resolution': 'Rollback of the change', 'client_impact': '64 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850043,21 Jan 2024,UF1-UK-CLIENT-MONOREPO,3 - Medium,"Brown, Alice",CHG2130009,"{'summary': 'Change CHG2130009 affected the UF1-UK-CLIENT-MONOREPO functionality.', 'resolution': 'Rollback of the change', 'client_impact': '82 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850044,21 Jun 2024,TUG-GATEWAY-API-SERVER,2 - High,"Smith, John",CHG2130039,"{'summary': 'Change CHG2130039 affected the TUG-GATEWAY-API-SERVER functionality.', 'resolution': 'Rollback of the change', 'client_impact': '137 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850045,19 Dec 2024,TUG-GATEWAY-API-SERVER,4 - Low,"Smith, John",CHG2130190,"{'summary': 'Change CHG2130190 affected the TUG-GATEWAY-API-SERVER functionality.', 'resolution': 'Rollback of the change', 'client_impact': '155 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850046,17 Feb 2024,UFS-UK PI SECURE SITE,1 - Critical,"Smith, John",CHG2130052,"{'summary': 'Change CHG2130052 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '133 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850047,24 Oct 2024,UFS-UK PI SECURE SITE,3 - Medium,"Brown, Alice",CHG2130352,"{'summary': 'Change CHG2130352 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '82 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
+INC2383000 + 190,06 Jun 2024,FA0 - France website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting FA0 - France website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of FA0 - France website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+INC2383000 + 191,06 Dec 2024,NL0 - Netherlands website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting NL0 - Netherlands website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of NL0 - Netherlands website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+INC2383000 + 192,03 Nov 2024,MX0 - Mexico website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting MX0 - Mexico website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of MX0 - Mexico website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+INC2383000 + 193,03 Jun 2024,EU0 - Europe website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting EU0 - Europe website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of EU0 - Europe website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+INC2383000 + 194,06 Dec 2024,LA0 - Latin America website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting LA0 - Latin America website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of LA0 - Latin America website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+INC2383000 + 195,10 Mar 2024,IT0 - Italy website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting IT0 - Italy website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of IT0 - Italy website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+INC2383000 + 196,07 Apr 2024,EU0 - Europe website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting EU0 - Europe website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of EU0 - Europe website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+INC2383000 + 197,21 Sep 2024,IT0 - Italy website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting IT0 - Italy website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of IT0 - Italy website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+INC2383000 + 198,02 Sep 2024,UK2 - UK Professional website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting UK2 - UK Professional website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of UK2 - UK Professional website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
+INC2383000 + 199,26 Oct 2024,NL0 - Netherlands website,2,Sebastian Cousins,Akamai DNS failure,"{'summary': 'Intermittent DNS failures impacting NL0 - Netherlands website due to a known Akamai bug.', 'resolution': 'Implemented temporary fix with AWS Route 53; permanent solution pending from Akamai.', 'client_impact': 'Intermittent access issues for users of NL0 - Netherlands website.'}","1:35 PM ET: Multiple alerts for DNS failures received.
+1:45 PM ET: Issue reproduced; no logs indicating request reached application.
+2:00 PM ET: Engaged Akamai for DNS support.
+2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.
+2:45 PM ET: Temporary fix applied using AWS Route 53 to reduce CNAME chain length.
+3:34 PM ET: Temporary fix applied across all affected sites; monitoring initiated."
