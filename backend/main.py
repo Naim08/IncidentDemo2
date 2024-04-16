@@ -23,7 +23,7 @@ def index():
 
 @app.route('/error')
 def trigger_error():
-     raise Exception("This is a test exception!")
+     raise Exception("Europe website,2,Sebastian Cousins,Akamai DNS failure 'Intermittent DNS failures impacting EU0 - Europe website due to a known Akamai bug.',  'client_impact': 'Intermittent access issues for users of EU0 - Europe website. 1:35 PM ET: Multiple alerts for DNS failures received. Issue reproduced; no logs indicating request reached application. 2:00 PM ET: Engaged Akamai for DNS support. 2:20 PM ET: Akamai confirmed the symptoms are related to a known bug.")
 
 @app.errorhandler(CustomError)
 def handle_custom_error(error):
