@@ -4,11 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trigger Error</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #message {
+            color: red;
+            margin-top: 15px;
+        }
+    </style>
+    <script>
+        function triggerError() {
+            fetch('/error')
+                .then(response => response.text())  // Convert the response to text
+                .then(data => {
+                    document.getElementById('message').innerText = 'Error submitted!!!!'
+                })
+                .catch(error => {
+                    document.getElementById('message').innerText = 'Failed to submit error: ' + error;
+                });
+            event.preventDefault();  // Prevent default form submission behavior
+        }
+    </script>
 </head>
 <body>
-    <h1>Welcome to the Flask Error Trigger App</h1>
-    <form action="/error" method="get">
-        <button type="submit">Trigger Error</button>
-    </form>
+    <h1>Welcome to the Incident Trigger App</h1>
+    <button onclick="triggerError()">Trigger Error</button>
+    <p id="message"></p>
 </body>
 </html>
