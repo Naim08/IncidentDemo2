@@ -139,25 +139,3 @@ INC2850046,17 Feb 2024,UFS-UK PI SECURE SITE,1 - Critical,"Smith, John",CHG21300
 12:00 PM: Change rolled back."
 INC2850047,24 Oct 2024,UFS-UK PI SECURE SITE,3 - Medium,"Brown, Alice",CHG2130352,"{'summary': 'Change CHG2130352 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '82 clients were impacted.'}","9:00 AM: Issue detected.
 10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850048,21 Dec 2024,UFS-UK PI SECURE SITE,1 - Critical,"Doe, Jane",CHG2130661,"{'summary': 'Change CHG2130661 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '89 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850049,16 Aug 2024,UFS-UK PI SECURE SITE,4 - Low,"Smith, John",CHG2130459,"{'summary': 'Change CHG2130459 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '64 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850050,25 Nov 2024,UF1-UK-CLIENT-MONOREPO,3 - Medium,"Brown, Alice",CHG2130827,"{'summary': 'Change CHG2130827 affected the UF1-UK-CLIENT-MONOREPO functionality.', 'resolution': 'Rollback of the change', 'client_impact': '98 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850051,14 Jan 2024,UFS-UK PI SECURE SITE,3 - Medium,"Smith, John",CHG2130511,"{'summary': 'Change CHG2130511 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '51 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850052,01 Oct 2024,UFS-UK PI SECURE SITE,1 - Critical,"Brown, Alice",CHG2130139,"{'summary': 'Change CHG2130139 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '196 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850053,31 Oct 2024,UF1-UK-CLIENT-MONOREPO,1 - Critical,"Smith, John",CHG2130117,"{'summary': 'Change CHG2130117 affected the UF1-UK-CLIENT-MONOREPO functionality.', 'resolution': 'Rollback of the change', 'client_impact': '119 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
-INC2850057,30 Aug 2024,UFS-UK PI SECURE SITE,1 - Critical,"Brown, Alice",CHG2130908,"{'summary': 'Change CHG2130908 affected the UFS-UK PI SECURE SITE functionality.', 'resolution': 'Rollback of the change', 'client_impact': '73 clients were impacted.'}","9:00 AM: Issue detected.
-10:30 AM: Root cause analysis started.
-12:00 PM: Change rolled back."
